@@ -1,7 +1,3 @@
-img{
-    width: 100%;
-    height: 350px;
-}
 
 .gallery{
     background-color: #bdddf1;
@@ -16,17 +12,25 @@ img{
     cursor: pointer;
 }
 
+img{
+    width: 100%;
+    height: 350px;
+}
+
 .gallery-modal .modal-hola{
     width: 100%;
 }
+
 .modal-content{
     top: -100px;
     width: 50%;
     margin: 0 auto;
 }
+
  #gallery-modal {
     padding: 100px;
-} 
+}
+
 #gallery-modal .modal-hola{
     width: 100%;
     height: auto;
